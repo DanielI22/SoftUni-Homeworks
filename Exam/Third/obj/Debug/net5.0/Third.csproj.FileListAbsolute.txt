@@ -1,0 +1,16 @@
+D:\Projects\C# projects Softuni\Exam\Third\bin\Debug\net5.0\Third.exe
+D:\Projects\C# projects Softuni\Exam\Third\bin\Debug\net5.0\Third.deps.json
+D:\Projects\C# projects Softuni\Exam\Third\bin\Debug\net5.0\Third.runtimeconfig.json
+D:\Projects\C# projects Softuni\Exam\Third\bin\Debug\net5.0\Third.runtimeconfig.dev.json
+D:\Projects\C# projects Softuni\Exam\Third\bin\Debug\net5.0\Third.dll
+D:\Projects\C# projects Softuni\Exam\Third\bin\Debug\net5.0\Third.pdb
+D:\Projects\C# projects Softuni\Exam\Third\obj\Debug\net5.0\Third.csproj.AssemblyReference.cache
+D:\Projects\C# projects Softuni\Exam\Third\obj\Debug\net5.0\Third.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C# projects Softuni\Exam\Third\obj\Debug\net5.0\Third.AssemblyInfoInputs.cache
+D:\Projects\C# projects Softuni\Exam\Third\obj\Debug\net5.0\Third.AssemblyInfo.cs
+D:\Projects\C# projects Softuni\Exam\Third\obj\Debug\net5.0\Third.csproj.CoreCompileInputs.cache
+D:\Projects\C# projects Softuni\Exam\Third\obj\Debug\net5.0\Third.dll
+D:\Projects\C# projects Softuni\Exam\Third\obj\Debug\net5.0\refint\Third.dll
+D:\Projects\C# projects Softuni\Exam\Third\obj\Debug\net5.0\Third.pdb
+D:\Projects\C# projects Softuni\Exam\Third\obj\Debug\net5.0\Third.genruntimeconfig.cache
+D:\Projects\C# projects Softuni\Exam\Third\obj\Debug\net5.0\ref\Third.dll

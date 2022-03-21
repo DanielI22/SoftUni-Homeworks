@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8d10a562-903e-491f-b102-100a598c2a65": {
+      "ProjectGuid": "8d10a562-903e-491f-b102-100a598c2a65",
+      "DisplayName": "1. Smallest of Three Numbers",
+      "ColorIndex": 0
+    },
+    "7f1ee08a-f9f0-479e-bea2-51c23494f3c0": {
+      "ProjectGuid": "7f1ee08a-f9f0-479e-bea2-51c23494f3c0",
+      "DisplayName": "2. Vowels Count",
+      "ColorIndex": 1
+    },
+    "710ac6c5-91c0-43c3-9c9f-5f9ec0bcd202": {
+      "ProjectGuid": "710ac6c5-91c0-43c3-9c9f-5f9ec0bcd202",
+      "DisplayName": "3. Characters in Range",
+      "ColorIndex": 2
+    },
+    "e709e24b-66b4-4dd8-a3eb-13ea61426eca": {
+      "ProjectGuid": "e709e24b-66b4-4dd8-a3eb-13ea61426eca",
+      "DisplayName": "4. Password Validator",
+      "ColorIndex": 3
+    },
+    "4088fc05-1346-4dfd-97cc-0caa79ecee16": {
+      "ProjectGuid": "4088fc05-1346-4dfd-97cc-0caa79ecee16",
+      "DisplayName": "05. Add and Subtract",
+      "ColorIndex": 4
+    },
+    "89f38ea9-ad5a-4bbe-8770-a5c5d57af45d": {
+      "ProjectGuid": "89f38ea9-ad5a-4bbe-8770-a5c5d57af45d",
+      "DisplayName": "06. Middle Characters",
+      "ColorIndex": 5
+    },
+    "7be47e06-8cb3-4e10-990c-f2f254039893": {
+      "ProjectGuid": "7be47e06-8cb3-4e10-990c-f2f254039893",
+      "DisplayName": "07. NxN Matrix",
+      "ColorIndex": 6
+    },
+    "a3c75b04-f916-480b-ba56-500ba3c21ebb": {
+      "ProjectGuid": "a3c75b04-f916-480b-ba56-500ba3c21ebb",
+      "DisplayName": "08. Factorial Division",
+      "ColorIndex": 7
+    },
+    "f27a4ac0-18da-4eb6-af0f-5a68ded2d8cb": {
+      "ProjectGuid": "f27a4ac0-18da-4eb6-af0f-5a68ded2d8cb",
+      "DisplayName": "09. Palindrome Integers",
+      "ColorIndex": 8
+    },
+    "a78b4946-e90a-436d-b11b-aaaa7a42f448": {
+      "ProjectGuid": "a78b4946-e90a-436d-b11b-aaaa7a42f448",
+      "DisplayName": "10. Top Number",
+      "ColorIndex": 9
+    },
+    "d85e90df-4c1a-4d7b-a76d-1951f767e8f2": {
+      "ProjectGuid": "d85e90df-4c1a-4d7b-a76d-1951f767e8f2",
+      "DisplayName": "11. Array Manipulator",
+      "ColorIndex": 10
+    }
+  },
+  "NextColorIndex": 11
+}

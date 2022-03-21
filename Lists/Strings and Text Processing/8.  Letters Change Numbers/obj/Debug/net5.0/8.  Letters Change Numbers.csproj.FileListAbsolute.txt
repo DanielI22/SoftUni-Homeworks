@@ -1,0 +1,16 @@
+D:\Projects\C# projects Softuni\Strings and Text Processing\8.  Letters Change Numbers\bin\Debug\net5.0\8.  Letters Change Numbers.exe
+D:\Projects\C# projects Softuni\Strings and Text Processing\8.  Letters Change Numbers\bin\Debug\net5.0\8.  Letters Change Numbers.deps.json
+D:\Projects\C# projects Softuni\Strings and Text Processing\8.  Letters Change Numbers\bin\Debug\net5.0\8.  Letters Change Numbers.runtimeconfig.json
+D:\Projects\C# projects Softuni\Strings and Text Processing\8.  Letters Change Numbers\bin\Debug\net5.0\8.  Letters Change Numbers.runtimeconfig.dev.json
+D:\Projects\C# projects Softuni\Strings and Text Processing\8.  Letters Change Numbers\bin\Debug\net5.0\8.  Letters Change Numbers.dll
+D:\Projects\C# projects Softuni\Strings and Text Processing\8.  Letters Change Numbers\bin\Debug\net5.0\8.  Letters Change Numbers.pdb
+D:\Projects\C# projects Softuni\Strings and Text Processing\8.  Letters Change Numbers\obj\Debug\net5.0\8.  Letters Change Numbers.csproj.AssemblyReference.cache
+D:\Projects\C# projects Softuni\Strings and Text Processing\8.  Letters Change Numbers\obj\Debug\net5.0\8.  Letters Change Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C# projects Softuni\Strings and Text Processing\8.  Letters Change Numbers\obj\Debug\net5.0\8.  Letters Change Numbers.AssemblyInfoInputs.cache
+D:\Projects\C# projects Softuni\Strings and Text Processing\8.  Letters Change Numbers\obj\Debug\net5.0\8.  Letters Change Numbers.AssemblyInfo.cs
+D:\Projects\C# projects Softuni\Strings and Text Processing\8.  Letters Change Numbers\obj\Debug\net5.0\8.  Letters Change Numbers.csproj.CoreCompileInputs.cache
+D:\Projects\C# projects Softuni\Strings and Text Processing\8.  Letters Change Numbers\obj\Debug\net5.0\8.  Letters Change Numbers.dll
+D:\Projects\C# projects Softuni\Strings and Text Processing\8.  Letters Change Numbers\obj\Debug\net5.0\refint\8.  Letters Change Numbers.dll
+D:\Projects\C# projects Softuni\Strings and Text Processing\8.  Letters Change Numbers\obj\Debug\net5.0\8.  Letters Change Numbers.pdb
+D:\Projects\C# projects Softuni\Strings and Text Processing\8.  Letters Change Numbers\obj\Debug\net5.0\8.  Letters Change Numbers.genruntimeconfig.cache
+D:\Projects\C# projects Softuni\Strings and Text Processing\8.  Letters Change Numbers\obj\Debug\net5.0\ref\8.  Letters Change Numbers.dll

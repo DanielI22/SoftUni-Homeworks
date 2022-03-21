@@ -1,0 +1,16 @@
+D:\Projects\C# projects Softuni\Methods\2. Vowels Count\bin\Debug\net5.0\2. Vowels Count.exe
+D:\Projects\C# projects Softuni\Methods\2. Vowels Count\bin\Debug\net5.0\2. Vowels Count.deps.json
+D:\Projects\C# projects Softuni\Methods\2. Vowels Count\bin\Debug\net5.0\2. Vowels Count.runtimeconfig.json
+D:\Projects\C# projects Softuni\Methods\2. Vowels Count\bin\Debug\net5.0\2. Vowels Count.runtimeconfig.dev.json
+D:\Projects\C# projects Softuni\Methods\2. Vowels Count\bin\Debug\net5.0\2. Vowels Count.dll
+D:\Projects\C# projects Softuni\Methods\2. Vowels Count\bin\Debug\net5.0\ref\2. Vowels Count.dll
+D:\Projects\C# projects Softuni\Methods\2. Vowels Count\bin\Debug\net5.0\2. Vowels Count.pdb
+D:\Projects\C# projects Softuni\Methods\2. Vowels Count\obj\Debug\net5.0\2. Vowels Count.csproj.AssemblyReference.cache
+D:\Projects\C# projects Softuni\Methods\2. Vowels Count\obj\Debug\net5.0\2. Vowels Count.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C# projects Softuni\Methods\2. Vowels Count\obj\Debug\net5.0\2. Vowels Count.AssemblyInfoInputs.cache
+D:\Projects\C# projects Softuni\Methods\2. Vowels Count\obj\Debug\net5.0\2. Vowels Count.AssemblyInfo.cs
+D:\Projects\C# projects Softuni\Methods\2. Vowels Count\obj\Debug\net5.0\2. Vowels Count.csproj.CoreCompileInputs.cache
+D:\Projects\C# projects Softuni\Methods\2. Vowels Count\obj\Debug\net5.0\2. Vowels Count.dll
+D:\Projects\C# projects Softuni\Methods\2. Vowels Count\obj\Debug\net5.0\ref\2. Vowels Count.dll
+D:\Projects\C# projects Softuni\Methods\2. Vowels Count\obj\Debug\net5.0\2. Vowels Count.pdb
+D:\Projects\C# projects Softuni\Methods\2. Vowels Count\obj\Debug\net5.0\2. Vowels Count.genruntimeconfig.cache

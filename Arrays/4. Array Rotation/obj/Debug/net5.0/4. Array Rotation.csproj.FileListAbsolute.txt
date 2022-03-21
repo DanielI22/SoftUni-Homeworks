@@ -1,0 +1,16 @@
+D:\Projects\C# projects Softuni\Arrays\4. Array Rotation\bin\Debug\net5.0\4. Array Rotation.exe
+D:\Projects\C# projects Softuni\Arrays\4. Array Rotation\bin\Debug\net5.0\4. Array Rotation.deps.json
+D:\Projects\C# projects Softuni\Arrays\4. Array Rotation\bin\Debug\net5.0\4. Array Rotation.runtimeconfig.json
+D:\Projects\C# projects Softuni\Arrays\4. Array Rotation\bin\Debug\net5.0\4. Array Rotation.runtimeconfig.dev.json
+D:\Projects\C# projects Softuni\Arrays\4. Array Rotation\bin\Debug\net5.0\4. Array Rotation.dll
+D:\Projects\C# projects Softuni\Arrays\4. Array Rotation\bin\Debug\net5.0\ref\4. Array Rotation.dll
+D:\Projects\C# projects Softuni\Arrays\4. Array Rotation\bin\Debug\net5.0\4. Array Rotation.pdb
+D:\Projects\C# projects Softuni\Arrays\4. Array Rotation\obj\Debug\net5.0\4. Array Rotation.csproj.AssemblyReference.cache
+D:\Projects\C# projects Softuni\Arrays\4. Array Rotation\obj\Debug\net5.0\4. Array Rotation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C# projects Softuni\Arrays\4. Array Rotation\obj\Debug\net5.0\4. Array Rotation.AssemblyInfoInputs.cache
+D:\Projects\C# projects Softuni\Arrays\4. Array Rotation\obj\Debug\net5.0\4. Array Rotation.AssemblyInfo.cs
+D:\Projects\C# projects Softuni\Arrays\4. Array Rotation\obj\Debug\net5.0\4. Array Rotation.csproj.CoreCompileInputs.cache
+D:\Projects\C# projects Softuni\Arrays\4. Array Rotation\obj\Debug\net5.0\4. Array Rotation.dll
+D:\Projects\C# projects Softuni\Arrays\4. Array Rotation\obj\Debug\net5.0\ref\4. Array Rotation.dll
+D:\Projects\C# projects Softuni\Arrays\4. Array Rotation\obj\Debug\net5.0\4. Array Rotation.pdb
+D:\Projects\C# projects Softuni\Arrays\4. Array Rotation\obj\Debug\net5.0\4. Array Rotation.genruntimeconfig.cache

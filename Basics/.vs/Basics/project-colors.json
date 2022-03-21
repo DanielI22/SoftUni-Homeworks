@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "87d121b2-7aa1-476a-bd87-45da0a1f463c": {
+      "ProjectGuid": "87d121b2-7aa1-476a-bd87-45da0a1f463c",
+      "DisplayName": "1. Student Information",
+      "ColorIndex": 0
+    },
+    "f0ab745a-e3f7-4c79-a876-e2c9d7b69129": {
+      "ProjectGuid": "f0ab745a-e3f7-4c79-a876-e2c9d7b69129",
+      "DisplayName": "Triangle",
+      "ColorIndex": 1
+    },
+    "b0f6ba6d-7460-4f33-aa99-dced80e122bf": {
+      "ProjectGuid": "b0f6ba6d-7460-4f33-aa99-dced80e122bf",
+      "DisplayName": "Rage expenses",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

@@ -1,0 +1,16 @@
+D:\Projects\C# projects Softuni\Data Types and Variables\bin\Debug\net5.0\Data Types and Variables.exe
+D:\Projects\C# projects Softuni\Data Types and Variables\bin\Debug\net5.0\Data Types and Variables.deps.json
+D:\Projects\C# projects Softuni\Data Types and Variables\bin\Debug\net5.0\Data Types and Variables.runtimeconfig.json
+D:\Projects\C# projects Softuni\Data Types and Variables\bin\Debug\net5.0\Data Types and Variables.runtimeconfig.dev.json
+D:\Projects\C# projects Softuni\Data Types and Variables\bin\Debug\net5.0\Data Types and Variables.dll
+D:\Projects\C# projects Softuni\Data Types and Variables\bin\Debug\net5.0\ref\Data Types and Variables.dll
+D:\Projects\C# projects Softuni\Data Types and Variables\bin\Debug\net5.0\Data Types and Variables.pdb
+D:\Projects\C# projects Softuni\Data Types and Variables\obj\Debug\net5.0\Data Types and Variables.csproj.AssemblyReference.cache
+D:\Projects\C# projects Softuni\Data Types and Variables\obj\Debug\net5.0\Data Types and Variables.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C# projects Softuni\Data Types and Variables\obj\Debug\net5.0\Data Types and Variables.AssemblyInfoInputs.cache
+D:\Projects\C# projects Softuni\Data Types and Variables\obj\Debug\net5.0\Data Types and Variables.AssemblyInfo.cs
+D:\Projects\C# projects Softuni\Data Types and Variables\obj\Debug\net5.0\Data Types and Variables.csproj.CoreCompileInputs.cache
+D:\Projects\C# projects Softuni\Data Types and Variables\obj\Debug\net5.0\Data Types and Variables.dll
+D:\Projects\C# projects Softuni\Data Types and Variables\obj\Debug\net5.0\ref\Data Types and Variables.dll
+D:\Projects\C# projects Softuni\Data Types and Variables\obj\Debug\net5.0\Data Types and Variables.pdb
+D:\Projects\C# projects Softuni\Data Types and Variables\obj\Debug\net5.0\Data Types and Variables.genruntimeconfig.cache

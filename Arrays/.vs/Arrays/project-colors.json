@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "10085fee-d3f7-427c-96ae-cba0eb81d11b": {
+      "ProjectGuid": "10085fee-d3f7-427c-96ae-cba0eb81d11b",
+      "DisplayName": "1. Train",
+      "ColorIndex": 0
+    },
+    "17c04ff8-d74a-4037-be70-fff53e010672": {
+      "ProjectGuid": "17c04ff8-d74a-4037-be70-fff53e010672",
+      "DisplayName": "2. Common Elements",
+      "ColorIndex": 1
+    },
+    "8cc127bc-b92a-4607-a590-71a7c18fb647": {
+      "ProjectGuid": "8cc127bc-b92a-4607-a590-71a7c18fb647",
+      "DisplayName": "3. Zig-Zag Arrays",
+      "ColorIndex": 2
+    },
+    "d1ce5ea8-a826-42e5-a34a-34cc2cd892a1": {
+      "ProjectGuid": "d1ce5ea8-a826-42e5-a34a-34cc2cd892a1",
+      "DisplayName": "4. Array Rotation",
+      "ColorIndex": 3
+    },
+    "78bf9199-30b8-4cf7-a60d-0414ca03ce31": {
+      "ProjectGuid": "78bf9199-30b8-4cf7-a60d-0414ca03ce31",
+      "DisplayName": "5. Top integers",
+      "ColorIndex": 4
+    },
+    "80aad306-b735-4a81-a7c1-efbf68f56d48": {
+      "ProjectGuid": "80aad306-b735-4a81-a7c1-efbf68f56d48",
+      "DisplayName": "6. Equal Sums",
+      "ColorIndex": 5
+    },
+    "d0a54e15-016d-4fd2-a5e2-a2a14b9d9613": {
+      "ProjectGuid": "d0a54e15-016d-4fd2-a5e2-a2a14b9d9613",
+      "DisplayName": "7. Max Sequence of Equal Elements",
+      "ColorIndex": 6
+    },
+    "302e61f2-1236-4d69-a744-1c60696a2898": {
+      "ProjectGuid": "302e61f2-1236-4d69-a744-1c60696a2898",
+      "DisplayName": "8. Magic Sum",
+      "ColorIndex": 7
+    },
+    "7c11998a-3e3f-4109-99e6-6f420be7a0be": {
+      "ProjectGuid": "7c11998a-3e3f-4109-99e6-6f420be7a0be",
+      "DisplayName": "1. Encrypt, Sort, and Print Array",
+      "ColorIndex": 8
+    },
+    "d1d29681-908f-4ec7-b340-c6f18d57e6f2": {
+      "ProjectGuid": "d1d29681-908f-4ec7-b340-c6f18d57e6f2",
+      "DisplayName": "2. Pascal triangle",
+      "ColorIndex": 9
+    }
+  },
+  "NextColorIndex": 10
+}

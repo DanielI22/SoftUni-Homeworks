@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8c1d0ab5-76bf-4f9b-b4b5-a768f5793519": {
+      "ProjectGuid": "8c1d0ab5-76bf-4f9b-b4b5-a768f5793519",
+      "DisplayName": "Data Types and Variables",
+      "ColorIndex": 0
+    },
+    "19975ba6-3d24-41b3-87cd-0c7c6cfc8d47": {
+      "ProjectGuid": "19975ba6-3d24-41b3-87cd-0c7c6cfc8d47",
+      "DisplayName": "8. Beer Kegs",
+      "ColorIndex": 1
+    },
+    "da9ac779-49d2-44ea-8de6-b3fc6e2dee73": {
+      "ProjectGuid": "da9ac779-49d2-44ea-8de6-b3fc6e2dee73",
+      "DisplayName": "Spice Must Flow",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
