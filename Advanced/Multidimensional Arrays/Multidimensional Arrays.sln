@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multidimensional Arrays", "Multidimensional Arrays\Multidimensional Arrays.csproj", "{F9487C17-704C-4478-84C0-ADF3C127279E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.  2X2 Squares in Matrix", "2.  2X2 Squares in Matrix\2.  2X2 Squares in Matrix.csproj", "{CD17E491-5350-46E2-A11A-64CA44BBBC1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Maximal Sum", "3. Maximal Sum\3. Maximal Sum.csproj", "{02C3884B-8FAA-4A99-B764-8C2BD6940AE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9487C17-704C-4478-84C0-ADF3C127279E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9487C17-704C-4478-84C0-ADF3C127279E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9487C17-704C-4478-84C0-ADF3C127279E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9487C17-704C-4478-84C0-ADF3C127279E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD17E491-5350-46E2-A11A-64CA44BBBC1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD17E491-5350-46E2-A11A-64CA44BBBC1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD17E491-5350-46E2-A11A-64CA44BBBC1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD17E491-5350-46E2-A11A-64CA44BBBC1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02C3884B-8FAA-4A99-B764-8C2BD6940AE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02C3884B-8FAA-4A99-B764-8C2BD6940AE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02C3884B-8FAA-4A99-B764-8C2BD6940AE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02C3884B-8FAA-4A99-B764-8C2BD6940AE0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57CA7CC3-1B00-403B-97F1-D9F57A578088}
+	EndGlobalSection
+EndGlobal
