@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32319.34
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Define a Class Person", "Define a Class Person\Define a Class Person.csproj", "{B4511E18-F241-41C6-889A-D0E050F9C13F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Define a Class Person", "Define a Class Person\Define a Class Person.csproj", "{B4511E18-F241-41C6-889A-D0E050F9C13F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7. Raw Data", "7. Raw Data\7. Raw Data.csproj", "{AF85EEE5-F8EB-4EB3-BDD1-9631F527AF01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Pokemon Trainer", "4. Pokemon Trainer\4. Pokemon Trainer.csproj", "{FD14D159-77B7-4FEE-B23A-4FDD56B5B2FA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{B4511E18-F241-41C6-889A-D0E050F9C13F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B4511E18-F241-41C6-889A-D0E050F9C13F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B4511E18-F241-41C6-889A-D0E050F9C13F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF85EEE5-F8EB-4EB3-BDD1-9631F527AF01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF85EEE5-F8EB-4EB3-BDD1-9631F527AF01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF85EEE5-F8EB-4EB3-BDD1-9631F527AF01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF85EEE5-F8EB-4EB3-BDD1-9631F527AF01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD14D159-77B7-4FEE-B23A-4FDD56B5B2FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD14D159-77B7-4FEE-B23A-4FDD56B5B2FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD14D159-77B7-4FEE-B23A-4FDD56B5B2FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD14D159-77B7-4FEE-B23A-4FDD56B5B2FA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
