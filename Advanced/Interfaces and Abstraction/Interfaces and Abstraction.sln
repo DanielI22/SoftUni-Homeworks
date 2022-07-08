@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task1", "Task1\Task1.csproj", "{F4CE71EF-54A0-4ED8-A93F-A7E780BEAE92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Telephony", "Telephony\Telephony.csproj", "{B7E61C2D-B8EE-4035-98DB-7F60CB0BD2EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BorderControl", "BorderControl\BorderControl.csproj", "{E7AF3088-3E35-4F7A-B7B8-BDB92D32152C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4CE71EF-54A0-4ED8-A93F-A7E780BEAE92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4CE71EF-54A0-4ED8-A93F-A7E780BEAE92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4CE71EF-54A0-4ED8-A93F-A7E780BEAE92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4CE71EF-54A0-4ED8-A93F-A7E780BEAE92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7E61C2D-B8EE-4035-98DB-7F60CB0BD2EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7E61C2D-B8EE-4035-98DB-7F60CB0BD2EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7E61C2D-B8EE-4035-98DB-7F60CB0BD2EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7E61C2D-B8EE-4035-98DB-7F60CB0BD2EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7AF3088-3E35-4F7A-B7B8-BDB92D32152C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7AF3088-3E35-4F7A-B7B8-BDB92D32152C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7AF3088-3E35-4F7A-B7B8-BDB92D32152C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7AF3088-3E35-4F7A-B7B8-BDB92D32152C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1FEDB21-1232-4590-A02A-084BE1F06AC6}
+	EndGlobalSection
+EndGlobal
