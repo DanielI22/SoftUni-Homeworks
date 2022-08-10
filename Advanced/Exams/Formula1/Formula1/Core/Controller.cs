@@ -33,7 +33,7 @@ namespace Formula1.Core
             }
             if(car == null)
             {
-                throw new InvalidOperationException(string.Format(ExceptionMessages.CarDoesNotExistErrorMessage, carModel));
+                throw new NullReferenceException(string.Format(ExceptionMessages.CarDoesNotExistErrorMessage, carModel));
             }
             pilot.AddCar(car);
             return string.Format(OutputMessages.SuccessfullyPilotToCar, pilotName, car.GetType().Name, carModel);
