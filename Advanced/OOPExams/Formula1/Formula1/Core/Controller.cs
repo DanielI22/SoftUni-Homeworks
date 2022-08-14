@@ -36,6 +36,7 @@ namespace Formula1.Core
                 throw new NullReferenceException(string.Format(ExceptionMessages.CarDoesNotExistErrorMessage, carModel));
             }
             pilot.AddCar(car);
+            carRepository.Remove(car);
             return string.Format(OutputMessages.SuccessfullyPilotToCar, pilotName, car.GetType().Name, carModel);
         }
 
