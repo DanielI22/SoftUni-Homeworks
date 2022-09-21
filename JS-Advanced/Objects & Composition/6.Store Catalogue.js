@@ -1,23 +1,26 @@
-function solve(input) {
-    let catalog = {};
-    let currentLetterProducts = [];
-    for(element of input) {
-        let [productName, productPrice] = element.split(' : ');
-        productPrice = +productPrice;
-
-        let currentProduct = {}
-        currentProduct[productName] =  productPrice;
-
-        if(!catalog.hasOwnProperty(productName[0])) {
-            currentLetterProducts.push(currentProduct);
-            catalog[productName[0]] = currentLetterProducts;
-        }
+function catalogue(input) {
+ 
+    let products = [];
+ 
+    for (let i = 0; i < input.length; i++) {
+        products.push(input[i].split(" :")
+            .join(":"));
     }
-
-    console.log(catalog);
+ 
+    products.sort();
+ 
+    let firstLetter = "";
+    for (let product of products) {
+        if (firstLetter !== product.charAt(0)) {
+            firstLetter = product.charAt(0);
+            console.log(firstLetter);
+        }
+ 
+        console.log("  " + product);
+    }
 }
 
-solve(['Appricot : 20.4',
+catalogue(['Appricot : 20.4',
 'Fridge : 1500',
 'TV : 1499',
 'Deodorant : 10',
