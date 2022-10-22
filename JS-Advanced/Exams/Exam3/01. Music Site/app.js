@@ -29,7 +29,7 @@ function solve() {
         <h2>Genre: ${songGenre}</h2>
         <h2>Name: ${songName}</h2>
         <h2>Author: ${songAuthor}</h2>
-        <h2>Date: ${songDate}</h2>
+        <h3>Date: ${songDate}</h3>
         <button class = "save-btn">Save song</button>
         <button class = "like-btn">Like song</button>
         <button class = "delete-btn">Delete</button>
@@ -55,7 +55,7 @@ function solve() {
         <h2>Genre: ${songGenre}</h2>
         <h2>Name: ${songName}</h2>
         <h2>Author: ${songAuthor}</h2>
-        <h2>Date: ${songDate}</h2>
+        <h3>Date: ${songDate}</h3>
         <button class = "delete-btn">Delete</button>`;
 
         savedCont.appendChild(saveSong);
